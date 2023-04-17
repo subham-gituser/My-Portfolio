@@ -1,0 +1,10 @@
+.nav_ac {
+    padding: 10px 0px;
+    margin: 0;
+    z-index: 1000;
+  }
+  
+  .nav_ac:hover {
+    color: var(--text-color-2);
+  }
+  
